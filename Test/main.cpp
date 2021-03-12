@@ -10,6 +10,6 @@
 using namespace std;
 
 int main() {
-    cout << "Kolejny test";
+    cout << "Kolejny testttt";
     return 0;
 }
